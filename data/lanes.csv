@@ -1,0 +1,11 @@
+lane_id,origin,destination,mode,transit_days
+1,MAA,Shanghai,Sea,18
+2,MAA,Frankfurt,Air,3
+3,HKG,MAA,Air,2
+4,MAA,Rotterdam,Sea,24
+5,MAA,New York,Sea,32
+6,MAA,Dubai,Sea,7
+7,Singapore,MAA,Sea,5
+8,MAA,Hamburg,Sea,26
+9,MAA,Tokyo,Air,5
+10,Shanghai,MAA,Sea,18
